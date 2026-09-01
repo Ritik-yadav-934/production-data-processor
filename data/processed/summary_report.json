@@ -1,0 +1,51 @@
+{
+    "data_profile": {
+        "total_records": 50,
+        "total_columns": 29
+    },
+    "missing_values": {
+        "Restaurant ID": 0,
+        "Restaurant name": 0,
+        "Subzone": 0,
+        "City": 0,
+        "Order ID": 0,
+        "Order Placed At": 0,
+        "Order Status": 0,
+        "Delivery": 0,
+        "Distance": 0,
+        "Items in order": 0,
+        "Instructions": 38,
+        "Discount construct": 0,
+        "Bill subtotal": 0,
+        "Packaging charges": 0,
+        "Restaurant discount (Promo)": 0,
+        "Restaurant discount (Flat offs, Freebies & others)": 0,
+        "Gold discount": 0,
+        "Brand pack discount": 0,
+        "Total": 0,
+        "Rating": 16,
+        "Review": 16,
+        "Cancellation / Rejection reason": 34,
+        "Restaurant compensation (Cancellation)": 0,
+        "Restaurant penalty (Rejection)": 0,
+        "KPT duration (minutes)": 0,
+        "Rider wait time (minutes)": 0,
+        "Order Ready Marked": 0,
+        "Customer complaint tag": 42,
+        "Customer ID": 0
+    },
+    "processing_summary": {
+        "total_orders": 50,
+        "delivered_orders": 34,
+        "cancelled_orders": 8,
+        "rejected_orders": 8,
+        "total_revenue": 28935.0,
+        "average_order_value": 578.7,
+        "average_distance": 7.1,
+        "average_kpt": 26.02,
+        "average_rating": 3.93
+    },
+    "validation": {
+        "invalid_records": 0
+    }
+}

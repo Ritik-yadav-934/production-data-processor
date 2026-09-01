@@ -1,0 +1,51 @@
+Restaurant ID,Restaurant name,Subzone,City,Order ID,Order Placed At,Order Status,Delivery,Distance,Items in order,Instructions,Discount construct,Bill subtotal,Packaging charges,Restaurant discount (Promo),"Restaurant discount (Flat offs, Freebies & others)",Gold discount,Brand pack discount,Total,Rating,Review,Cancellation / Rejection reason,Restaurant compensation (Cancellation),Restaurant penalty (Rejection),KPT duration (minutes),Rider wait time (minutes),Order Ready Marked,Customer complaint tag,Customer ID
+101,Spice Hub,North Zone,Bhopal,O0001,2026-08-01 10:07:00,Delivered,Standard,2.6,2,,31,253,18,7,5,3,2,254,3.7,Could be improved,,0,0,13,4,2026-08-01 10:20:00,,201
+102,Urban Tadka,Central Zone,Bhopal,O0002,2026-08-01 11:14:00,Delivered,Express,3.9,3,,42,326,21,14,10,6,4,313,4.4,Good delivery,,0,0,16,6,2026-08-01 11:30:00,,202
+103,Food Junction,South Zone,Bhopal,O0003,2026-08-01 12:21:00,Delivered,Standard,5.3,4,,53,399,24,21,15,9,6,372,3.1,Could be improved,,0,0,19,8,2026-08-01 12:40:00,,203
+104,Green Bowl,East Zone,Indore,O0004,2026-08-01 13:28:00,Delivered,Express,6.7,5,Call before delivery,64,472,27,28,20,12,8,431,3.8,Could be improved,,0,0,22,10,2026-08-01 13:50:00,,204
+105,Cafe Aroma,Central Zone,Indore,O0005,2026-08-01 14:35:00,Cancelled,Standard,8.1,6,,75,545,30,35,25,15,10,490,,,Customer unavailable,75,0,25,12,2026-08-01 15:00:00,Late delivery,205
+106,The Meal House,West Zone,Indore,O0006,2026-08-01 15:42:00,Rejected,Express,9.4,1,,86,618,33,42,30,18,12,549,,,Restaurant rejected order,0,30,28,14,2026-08-01 16:10:00,,206
+101,Spice Hub,North Zone,Bhopal,O0007,2026-08-01 16:49:00,Delivered,Standard,10.8,2,,97,691,36,49,35,21,14,608,3.9,Could be improved,,0,0,31,16,2026-08-01 17:20:00,,207
+102,Urban Tadka,Central Zone,Bhopal,O0008,2026-08-01 17:56:00,Delivered,Express,12.2,3,Call before delivery,28,764,39,56,0,24,16,707,4.6,Good delivery,,0,0,34,2,2026-08-01 18:30:00,,208
+103,Food Junction,South Zone,Bhopal,O0009,2026-08-01 18:03:00,Delivered,Standard,1.5,4,,39,837,17,3,5,2,18,826,3.3,Could be improved,,0,0,37,4,2026-08-01 18:40:00,,209
+104,Green Bowl,East Zone,Indore,O0010,2026-08-01 19:10:00,Delivered,Express,2.9,5,,50,910,20,10,10,5,0,905,4.0,Good delivery,,0,0,40,6,2026-08-01 19:50:00,Wrong item,210
+105,Cafe Aroma,Central Zone,Indore,O0011,2026-08-01 10:17:00,Cancelled,Standard,4.3,6,,61,983,23,17,15,8,2,964,,,Customer unavailable,125,0,43,8,2026-08-01 11:00:00,,211
+106,The Meal House,West Zone,Indore,O0012,2026-08-01 11:24:00,Rejected,Express,5.6,1,Call before delivery,72,1056,26,24,20,11,4,1023,,,Restaurant rejected order,0,30,10,10,2026-08-01 11:34:00,,212
+101,Spice Hub,North Zone,Bhopal,O0013,2026-08-01 12:31:00,Delivered,Standard,7.0,2,,83,229,29,31,25,14,6,182,4.1,Good delivery,,0,0,13,12,2026-08-01 12:44:00,,201
+102,Urban Tadka,Central Zone,Bhopal,O0014,2026-08-01 13:38:00,Delivered,Express,8.4,3,,94,302,32,38,30,17,8,241,4.8,Good delivery,,0,0,16,14,2026-08-01 13:54:00,,202
+103,Food Junction,South Zone,Bhopal,O0015,2026-08-01 14:45:00,Delivered,Standard,9.8,4,,25,375,35,45,35,20,10,300,3.5,Could be improved,,0,0,19,16,2026-08-01 15:04:00,Missing item,203
+104,Green Bowl,East Zone,Indore,O0016,2026-08-01 15:52:00,Delivered,Express,11.1,5,Call before delivery,36,448,38,52,0,23,12,399,4.2,Good delivery,,0,0,22,2,2026-08-01 16:14:00,,204
+105,Cafe Aroma,Central Zone,Indore,O0017,2026-08-01 16:59:00,Cancelled,Standard,12.5,6,,47,521,16,59,5,1,14,458,,,Customer unavailable,75,0,25,4,2026-08-01 17:24:00,,205
+106,The Meal House,West Zone,Indore,O0018,2026-08-01 17:06:00,Rejected,Express,1.9,1,,58,594,19,6,10,4,16,577,,,Restaurant rejected order,0,30,28,6,2026-08-01 17:34:00,,206
+101,Spice Hub,North Zone,Bhopal,O0019,2026-08-01 18:13:00,Delivered,Standard,3.2,2,,69,667,22,13,15,7,18,636,4.3,Good delivery,,0,0,31,8,2026-08-01 18:44:00,,207
+102,Urban Tadka,Central Zone,Bhopal,O0020,2026-08-01 19:20:00,Delivered,Express,4.6,3,Call before delivery,80,740,25,20,20,10,0,715,3.0,Could be improved,,0,0,34,10,2026-08-01 19:54:00,,208
+103,Food Junction,South Zone,Bhopal,O0021,2026-08-01 10:27:00,Delivered,Standard,6.0,4,,91,813,28,27,25,13,2,774,3.7,Could be improved,,0,0,37,12,2026-08-01 11:04:00,,209
+104,Green Bowl,East Zone,Indore,O0022,2026-08-01 11:34:00,Delivered,Express,7.3,5,,22,886,31,34,30,16,4,833,4.4,Good delivery,,0,0,40,14,2026-08-01 12:14:00,,210
+105,Cafe Aroma,Central Zone,Indore,O0023,2026-08-01 12:41:00,Cancelled,Standard,8.7,6,,33,959,34,41,35,19,6,892,,,Customer unavailable,125,0,43,16,2026-08-01 13:24:00,,211
+106,The Meal House,West Zone,Indore,O0024,2026-08-01 13:48:00,Rejected,Express,10.1,1,Call before delivery,44,1032,37,48,0,22,8,991,,,Restaurant rejected order,0,30,10,2,2026-08-01 13:58:00,,212
+101,Spice Hub,North Zone,Bhopal,O0025,2026-08-01 14:55:00,Delivered,Standard,11.4,2,,55,205,15,55,5,0,10,150,4.5,Good delivery,,0,0,13,4,2026-08-01 15:08:00,Late delivery,201
+102,Urban Tadka,Central Zone,Bhopal,O0026,2026-08-01 15:02:00,Delivered,Express,12.8,3,,66,278,18,2,10,3,12,269,3.2,Could be improved,,0,0,16,6,2026-08-01 15:18:00,,202
+103,Food Junction,South Zone,Bhopal,O0027,2026-08-01 16:09:00,Delivered,Standard,2.2,4,,77,351,21,9,15,6,14,328,3.9,Could be improved,,0,0,19,8,2026-08-01 16:28:00,,203
+104,Green Bowl,East Zone,Indore,O0028,2026-08-01 17:16:00,Delivered,Express,3.6,5,Call before delivery,88,424,24,16,20,9,16,387,4.6,Good delivery,,0,0,22,10,2026-08-01 17:38:00,,204
+105,Cafe Aroma,Central Zone,Indore,O0029,2026-08-01 18:23:00,Cancelled,Standard,4.9,6,,99,497,27,23,25,12,18,446,,,Customer unavailable,75,0,25,12,2026-08-01 18:48:00,,205
+106,The Meal House,West Zone,Indore,O0030,2026-08-01 19:30:00,Rejected,Express,6.3,1,,30,570,30,30,30,15,0,525,,,Restaurant rejected order,0,30,28,14,2026-08-01 19:58:00,Wrong item,206
+101,Spice Hub,North Zone,Bhopal,O0031,2026-08-01 10:37:00,Delivered,Standard,7.7,2,,41,643,33,37,35,18,2,584,4.7,Good delivery,,0,0,31,16,2026-08-01 11:08:00,,207
+102,Urban Tadka,Central Zone,Bhopal,O0032,2026-08-01 11:44:00,Delivered,Express,9.0,3,Call before delivery,52,716,36,44,0,21,4,683,3.4,Could be improved,,0,0,34,2,2026-08-01 12:18:00,,208
+103,Food Junction,South Zone,Bhopal,O0033,2026-08-01 12:51:00,Delivered,Standard,10.4,4,,63,789,39,51,5,24,6,742,4.1,Good delivery,,0,0,37,4,2026-08-01 13:28:00,,209
+104,Green Bowl,East Zone,Indore,O0034,2026-08-01 13:58:00,Delivered,Express,11.8,5,,74,862,17,58,10,2,8,801,4.8,Good delivery,,0,0,40,6,2026-08-01 14:38:00,,210
+105,Cafe Aroma,Central Zone,Indore,O0035,2026-08-01 14:05:00,Cancelled,Standard,13.2,6,,85,935,20,5,15,5,10,920,,,Customer unavailable,125,0,43,8,2026-08-01 14:48:00,Missing item,211
+106,The Meal House,West Zone,Indore,O0036,2026-08-01 15:12:00,Rejected,Express,2.5,1,Call before delivery,96,1008,23,12,20,8,12,979,,,Restaurant rejected order,0,30,10,10,2026-08-01 15:22:00,,212
+101,Spice Hub,North Zone,Bhopal,O0037,2026-08-01 16:19:00,Delivered,Standard,3.9,2,,27,181,26,19,25,11,14,138,4.9,Good delivery,,0,0,13,12,2026-08-01 16:32:00,,201
+102,Urban Tadka,Central Zone,Bhopal,O0038,2026-08-01 17:26:00,Delivered,Express,5.3,3,,38,254,29,26,30,14,16,197,3.6,Could be improved,,0,0,16,14,2026-08-01 17:42:00,,202
+103,Food Junction,South Zone,Bhopal,O0039,2026-08-01 18:33:00,Delivered,Standard,6.6,4,,49,327,32,33,35,17,18,256,4.3,Good delivery,,0,0,19,16,2026-08-01 18:52:00,,203
+104,Green Bowl,East Zone,Indore,O0040,2026-08-01 19:40:00,Delivered,Express,8.0,5,Call before delivery,60,400,35,40,0,20,0,375,3.0,Could be improved,,0,0,22,2,2026-08-01 20:02:00,,204
+105,Cafe Aroma,Central Zone,Indore,O0041,2026-08-01 10:47:00,Cancelled,Standard,9.4,6,,71,473,38,47,5,23,2,434,,,Customer unavailable,75,0,25,4,2026-08-01 11:12:00,,205
+106,The Meal House,West Zone,Indore,O0042,2026-08-01 11:54:00,Rejected,Express,10.7,1,,82,546,16,54,10,1,4,493,,,Restaurant rejected order,0,30,28,6,2026-08-01 12:22:00,,206
+101,Spice Hub,North Zone,Bhopal,O0043,2026-08-01 12:01:00,Delivered,Standard,12.1,2,,93,619,19,1,15,4,6,612,3.1,Could be improved,,0,0,31,8,2026-08-01 12:32:00,,207
+102,Urban Tadka,Central Zone,Bhopal,O0044,2026-08-01 13:08:00,Delivered,Express,1.5,3,Call before delivery,24,692,22,8,20,7,8,671,3.8,Could be improved,,0,0,34,10,2026-08-01 13:42:00,,208
+103,Food Junction,South Zone,Bhopal,O0045,2026-08-01 14:15:00,Delivered,Standard,2.9,4,,35,765,25,15,25,10,10,730,4.5,Good delivery,,0,0,37,12,2026-08-01 14:52:00,Late delivery,209
+104,Green Bowl,East Zone,Indore,O0046,2026-08-01 15:22:00,Delivered,Express,4.2,5,,46,838,28,22,30,13,12,789,3.2,Could be improved,,0,0,40,14,2026-08-01 16:02:00,,210
+105,Cafe Aroma,Central Zone,Indore,O0047,2026-08-01 16:29:00,Cancelled,Standard,5.6,6,,57,911,31,29,35,16,14,848,,,Customer unavailable,125,0,43,16,2026-08-01 17:12:00,,211
+106,The Meal House,West Zone,Indore,O0048,2026-08-01 17:36:00,Rejected,Express,7.0,1,Call before delivery,68,984,34,36,0,19,16,947,,,Restaurant rejected order,0,30,10,2,2026-08-01 17:46:00,,212
+101,Spice Hub,North Zone,Bhopal,O0049,2026-08-01 18:43:00,Delivered,Standard,8.3,2,,79,1057,37,43,5,22,18,1006,3.3,Could be improved,,0,0,13,4,2026-08-01 18:56:00,,201
+102,Urban Tadka,Central Zone,Bhopal,O0050,2026-08-01 19:50:00,Delivered,Express,9.7,3,,90,230,15,50,10,0,0,185,4.0,Good delivery,,0,0,16,6,2026-08-01 20:06:00,Wrong item,202
